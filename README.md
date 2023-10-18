@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Thang Le
-- 👀  Passionate Web Developer - Frontend
+- 👀  Passionate Web Developer
 - 🌱 I’m currently working with Javascript,HTML CSS,VueJS, ReactJS, NodeJS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: thangld.dev@gmail.com
